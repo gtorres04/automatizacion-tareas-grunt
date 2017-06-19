@@ -1,0 +1,14 @@
+{
+  "name": "automatizacion-tareas-grunt",
+  "version": "1.0.0",
+  "description": "automatizacion de tareas con grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "Gerlin Torres",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
